@@ -1,0 +1,2 @@
+rectangle 0 0 6 2
+cercle 0 0 3
